@@ -1,0 +1,47 @@
+.border {border-style: solid;
+
+}
+
+.back-red {background-color: blue;
+}
+    
+body {
+      background: url('../images/back-image.jpg');
+      background-attachment: fixed;
+      text-align: center;
+      font-family: sans-serif;
+    }
+
+.crystal-image {
+      width: 100px;
+      height: 100px;
+    }
+
+h1 {font-weight: bold;
+  color: white;
+background: blue;
+height: 60px;
+padding-top: 10px;
+}
+
+.container{
+  margin-left: 0px;
+}
+
+#text-left {text-align: left;
+  color: white;
+
+}
+
+#bluebox{
+  background: blue;
+  color: white;
+}
+
+.marginleft{
+  margin-left: 15px;
+}
+
+.size{
+  width: 375px;
+}
